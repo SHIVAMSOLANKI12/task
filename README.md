@@ -89,7 +89,7 @@ npm start
 
 ## 🌍 Live Demo
 
-* 🔗 Frontend: https://task-9wdhc8bs8-rshivamsingh378-1548s-projects.vercel.app/
+* 🔗 Frontend: https://task-mu-three.vercel.app/
 * 🔗 Backend: https://task-y51z.onrender.com/
 
 ---
