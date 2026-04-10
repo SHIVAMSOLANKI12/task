@@ -4,7 +4,7 @@ import axios from "axios";
 
 const Details = () => {
   const { id } = useParams();
-  const navigate = useNavigate(); // 👈 ADD THIS
+  const navigate = useNavigate(); 
 
   const [data, setData] = useState(null);
   const [tab, setTab] = useState("types");
@@ -19,7 +19,7 @@ const Details = () => {
 
   return (
     <div>
-      {/* 👇 BACK BUTTON */}
+      {/*  BACK BUTTON */}
       <button onClick={() => navigate(-1)}>⬅ Back</button>
 
       <h2>{data.name}</h2>
